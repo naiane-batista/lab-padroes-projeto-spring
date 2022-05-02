@@ -1,4 +1,4 @@
-# lab-padroes-projeto-spring
+# lab-patterns-design-spring
 ApiCep created with Project Pattern concepts! We use the Singleton concept, strategy and facade.
 
 ![openapi](https://user-images.githubusercontent.com/41305394/166254125-2eea810e-b2ab-4cfe-aa69-4a43879d4651.png)
