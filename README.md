@@ -5,3 +5,5 @@ ApiCep criada com conceitos de Padrão de Projetos! Utilizamos o conceito Single
 Post:
 ![image](https://user-images.githubusercontent.com/41305394/166256607-1a70e8ce-c57e-4b0b-9557-22c068227d82.png)
 
+GET:
+![image](https://user-images.githubusercontent.com/41305394/166256778-19c47312-d8fd-4051-899a-6932c29639e5.png)
